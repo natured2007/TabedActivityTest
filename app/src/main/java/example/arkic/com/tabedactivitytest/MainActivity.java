@@ -62,7 +62,7 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
 
 
         // Create the adapter that will return a fragment for each of the three
-        // primary sections of the activity.
+        // primary sections of the activity.qweq
         mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
 
         // Set up the ViewPager with the sections adapter.
